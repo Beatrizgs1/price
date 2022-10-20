@@ -1,0 +1,29 @@
+p{
+    font-weight: 700;
+    line-height: 1.25rem;
+    color: var(--Bright-Yellow);
+    margin-bottom:1rem ;
+}
+.paragrafo_dois p{
+    line-height: 1.625rem;
+    color: #98a6bd;
+    font-size: 0.875rem;
+}
+
+div.superior{
+    padding: 1.5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: white;
+    border-radius: 0.313rem;
+
+
+}
+section.direita{
+    background-color: #4ABFBD;
+    padding: 1.5rem;
+}
+section.esquerda{
+    background-color: #2ab2af;
+    padding: 1.5rem;
+}
