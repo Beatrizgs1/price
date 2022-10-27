@@ -1,0 +1,46 @@
+@media(min-width: 650px){
+    .inferior{
+        display: flex;
+        
+        
+        
+    }
+    .esquerda{
+        width: 100%;
+        padding: 2.5rem;
+    }
+
+    .direita{
+        padding: 2.5rem;
+        width: 100%;
+    }
+
+    main{
+        width: 640px;
+        padding: 0%;
+    }
+    body{
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .superior{
+       border-top-left-radius: 8px;
+       border-bottom-right-radius: 0px;
+       padding: 2.5rem;
+    }
+    .h1{
+        font-size: 1.5rem;
+    }
+    .ver{
+        font-size: 1.5rem;
+    }
+    .desc{
+        font-size: 1rem;
+    .dreita{
+        border-top-left-radius: 0%;
+        border-bottom-right-radius: 8px;
+    }
+    }
+}
